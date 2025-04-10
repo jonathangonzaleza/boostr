@@ -5,3 +5,10 @@
     background-color: #28A745 !important;
   }
 
+.text-cuppon {
+    /* --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important; */
+
+    color: #28A745 !important;
+  }
+
